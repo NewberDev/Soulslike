@@ -1,0 +1,40 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "NativeGameplayTags.h"
+
+namespace SoulGameplayTags
+{
+
+	// Declare all of the custom native tags that Lyra will use
+	
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Move);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Look);
+	
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Weapon);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Jump);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Attack);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Roll);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Fire);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_Skill);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(InputTag_LockOn);
+
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_State_Action_OnShield);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_State_Move_Roll);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_State_Impact_Damage);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_State_OnAir);
+
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_Rule_Death);
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Gameplay_Rule_Stun);
+
+	SOULSLIKE_API	UE_DECLARE_GAMEPLAY_TAG_EXTERN(GameplayEffect_Buff_Invincibility);
+
+
+
+
+
+
+
+
+};
