@@ -19,7 +19,7 @@
 본 GitHub 저장소에는 코드 리뷰를 위한 **C++ 주요 스크립트 및 프로젝트 설정 파일**이 포함되어 있습니다.
 
 실제 플레이 가능한 실행 빌드(.exe)는 아래 구글 드라이브 링크에서 다운로드하실 수 있습니다.
-- 🎮 [Soulslike 실행 빌드 다운로드 (Google Drive)](https://drive.google.com/file/d/1H37_8Cki6nN4f_CS792_h7Gdom2Tpjbd/view?usp=drive_link)
+- 🎮 [Soulslike_release 실행 빌드 다운로드 (Google Drive)](https://drive.google.com/file/d/1H37_8Cki6nN4f_CS792_h7Gdom2Tpjbd/view?usp=drive_link)
 
 <br>
 
