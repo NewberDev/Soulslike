@@ -15,8 +15,6 @@
 ### 🎮 게임 설명
 몬스터의 패턴을 분석해 공략하는 소울라이크 게임입니다. SP(Stamina) 시스템으로 전투 리듬을 설계하고, GAS를 도입해 체계적인 상태 관리와 공방의 재미를 구현했습니다.
 
-<br>
-
 ---
 
 ## 🛠️ 핵심 구현 사항
@@ -35,8 +33,6 @@ ANS(AnimNotifyState)를 활용한 정밀한 공격 판정과 Hit Stop, Camera Sh
 
 ### 5. Physics Asset 기반 물리 연출
 Physics Asset을 이용한 2차 애니메이션(Secondary Animation)과 피격 및 사망 시 실시간 물리 충돌을 반영하는 래그돌(Ragdoll) 시스템을 구현했습니다.
-
-<br>
 
 ---
 
